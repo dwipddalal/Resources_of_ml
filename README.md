@@ -1,4 +1,7 @@
 # Resources for ML
+
+[Detailed step-by-step process for learning ML](https://github.com/dwipddalal/Resources_of_ml/blob/main/ML%20Material.pdf)
+
 Probability:
 Harvard Stat 110 by Blitzstein - Youtube videos and book
 
