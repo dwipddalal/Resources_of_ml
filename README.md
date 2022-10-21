@@ -26,3 +26,7 @@ PGM by Eric Xiang CMU 10-708
 
 Reinforcement Learning :
 10 lectures by David Silver
+
+
+## Some Pretty good books for building ML concepts are:
+[Mathematics for machine learning](https://github.com/dwipddalal/Resources_of_ml/blob/main/mml-book.pdf)
