@@ -32,5 +32,5 @@ Reinforcement Learning :
 
 
 ## Some Pretty good books for building ML concepts are:
-[Mathematics for machine learning](https://github.com/dwipddalal/Resources_of_ml/blob/main/mml-book.pdf)
-[Deep learning by Ian Goodfellow](https://www.deeplearningbook.org/)
+- [Mathematics for machine learning](https://github.com/dwipddalal/Resources_of_ml/blob/main/mml-book.pdf)
+- [Deep learning by Ian Goodfellow](https://www.deeplearningbook.org/)
