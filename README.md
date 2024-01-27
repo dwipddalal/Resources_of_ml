@@ -36,5 +36,9 @@ Reinforcement Learning :
 - [Deep learning by Ian Goodfellow](https://www.deeplearningbook.org/)
 
 Nice concepts:
+
 <img width="649" alt="image" src="https://github.com/dwipddalal/Resources_of_ml/assets/91228207/04aadefc-22c6-4bd3-8728-966935e0c8a2">
+
+<img width="411" alt="image" src="https://github.com/dwipddalal/Resources_of_ml/assets/91228207/40945d4f-6353-4ed3-84bb-96984d5e32d0">
+
 
